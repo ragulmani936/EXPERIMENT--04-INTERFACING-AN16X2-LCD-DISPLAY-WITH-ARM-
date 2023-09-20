@@ -178,8 +178,6 @@ Developed By: Ragul M
 Reg no: 212221230080
 ~~~
 ~~~
-Developed by: Prethiveerajan P
-Reference number: 212221230079
 
 #include "main.h"
 #include"lcd.h"
